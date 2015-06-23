@@ -1,0 +1,6 @@
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\bin\AzureApp.dll.config
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\bin\AzureApp.dll
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\bin\AzureApp.pdb
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\obj\Release\AzureApp.csprojResolveAssemblyReference.cache
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\obj\Release\AzureApp.dll
+C:\Users\AdamLoh\Documents\GitHub\azureworkshop\AzureApp\AzureApp\obj\Release\AzureApp.pdb
