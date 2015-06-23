@@ -21,7 +21,7 @@ Polytechnic.
             <div class="row">
                 <div class="col-sm-4">
                     <h2>A random photo</h2>
-                    <img src="http://global-conferences.eu/wpcontent/uploads/2013/09/34.jpg"
+                    <img src="http://rkvc.net/wp-content/uploads/2014/01/dog-in-paper-bag-so-many-crazy-things-RKVC.jpg"
                         alt="London!" class="img-responsive">
                 </div>
                 <div class="col-sm-4">
